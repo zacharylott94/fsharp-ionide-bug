@@ -1,0 +1,10 @@
+/home/zach/Programming/fSharp/bugReport/bugLib/bin/Debug/net5.0/bugLib.deps.json
+/home/zach/Programming/fSharp/bugReport/bugLib/bin/Debug/net5.0/bugLib.dll
+/home/zach/Programming/fSharp/bugReport/bugLib/bin/Debug/net5.0/bugLib.pdb
+/home/zach/Programming/fSharp/bugReport/bugLib/bin/Debug/net5.0/bugLib.xml
+/home/zach/Programming/fSharp/bugReport/bugLib/obj/Debug/net5.0/bugLib.fsproj.AssemblyReference.cache
+/home/zach/Programming/fSharp/bugReport/bugLib/obj/Debug/net5.0/bugLib.AssemblyInfoInputs.cache
+/home/zach/Programming/fSharp/bugReport/bugLib/obj/Debug/net5.0/bugLib.AssemblyInfo.fs
+/home/zach/Programming/fSharp/bugReport/bugLib/obj/Debug/net5.0/bugLib.dll
+/home/zach/Programming/fSharp/bugReport/bugLib/obj/Debug/net5.0/bugLib.xml
+/home/zach/Programming/fSharp/bugReport/bugLib/obj/Debug/net5.0/bugLib.pdb

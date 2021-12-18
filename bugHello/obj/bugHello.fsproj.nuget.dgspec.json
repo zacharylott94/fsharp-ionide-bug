@@ -1,0 +1,122 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/zach/Programming/fSharp/bugReport/bugHello/bugHello.fsproj": {}
+  },
+  "projects": {
+    "/home/zach/Programming/fSharp/bugReport/bugHello/bugHello.fsproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/zach/Programming/fSharp/bugReport/bugHello/bugHello.fsproj",
+        "projectName": "bugHello",
+        "projectPath": "/home/zach/Programming/fSharp/bugReport/bugHello/bugHello.fsproj",
+        "packagesPath": "/home/zach/.nuget/packages/",
+        "outputPath": "/home/zach/Programming/fSharp/bugReport/bugHello/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/zach/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "/home/zach/Programming/fSharp/bugReport/bugLib/bugLib.fsproj": {
+                "projectPath": "/home/zach/Programming/fSharp/bugReport/bugLib/bugLib.fsproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "FSharp.Core": {
+              "include": "Runtime, Compile, Build, Native, Analyzers, BuildTransitive",
+              "target": "Package",
+              "version": "[5.0.0, )",
+              "generatePathProperty": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.404/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/zach/Programming/fSharp/bugReport/bugLib/bugLib.fsproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/zach/Programming/fSharp/bugReport/bugLib/bugLib.fsproj",
+        "projectName": "bugLib",
+        "projectPath": "/home/zach/Programming/fSharp/bugReport/bugLib/bugLib.fsproj",
+        "packagesPath": "/home/zach/.nuget/packages/",
+        "outputPath": "/home/zach/Programming/fSharp/bugReport/bugLib/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/zach/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "FSharp.Core": {
+              "include": "Runtime, Compile, Build, Native, Analyzers, BuildTransitive",
+              "target": "Package",
+              "version": "[5.0.0, )",
+              "generatePathProperty": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.404/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
