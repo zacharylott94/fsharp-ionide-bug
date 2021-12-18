@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "tsSYcZCb30+00DJ3XvhtJJxTWJ0W3wq/ci/wWLEQVBn71lGkWbiQk08EbjHcItaHnkBnlBbcUyBWcSfzvguh7w==",
+  "success": true,
+  "projectFilePath": "/home/zach/Programming/fSharp/bugReport/bugHello/bugHello.fsproj",
+  "expectedPackageFiles": [
+    "/home/zach/.nuget/packages/fsharp.core/5.0.0/fsharp.core.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
